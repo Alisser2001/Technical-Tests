@@ -1,0 +1,46 @@
+{
+    "myUser": {
+        "id": "alidev",
+        "name": "Estiven Muñoz",
+        "username": "Alidev",
+        "email": "Estiven25b777@gmail.com",
+        "phone": "323 588 69 93",
+        "website": "https://portfolio-alisser2001.vercel.app/"
+    },
+    "myPost": {
+        "userId": "alidev",
+        "id": "mypost",
+        "title": "Algunas cosas sobre mí...",
+        "body": "Hola, mi nombre es Estiven Muñoz y soy programador desde hace poco más de dos años; tengo múltiples conocimientos y buena experiencia en diferentes tecnologías, aunque aún no he logrado conseguir mi primer empleo como desarrollador. Actualmente me estoy formando como ingeniero de sistemas y cada día me siento más preparado en lo que será mi futura profesión. Por el momento, sigo disfrutando del proceso de aprender y volverme experto en lo que me gusta."
+    },
+    "myComments": [
+        {
+            "postId": "mypost",
+            "id": 101,
+            "name": "Sobre mi futuro profesional...",
+            "email": "Estiven25b777@gmail.com",
+            "body": "Como ya mencioné, actualmente me estoy formando como ingeniero de sistemas, y como desarrollador me gustaría desenvolverme en un ambiente que me permita crecer personal y profesionalmente, pero que también me permita hacerlo en el ámbito académico. Creo que tengo mucho potencial como profesional y mi carrera universitaria le está dando sentido a ese camino."
+        },
+        {
+            "postId": "mypost",
+            "id": 102,
+            "name": "¿Qué beneficio puedo aportar en Auco?",
+            "email": "Estiven25b777@gmail.com",
+            "body": "A pesar de que sería mi primer empleo, considero que tengo la suficiente experiencia creando soluciones como para enfrentarme al entorno empresarial de Auco; soy alguien muy comprometido con su ética y sus responsabilidades, dispuesto al trabajo en equipo y sé que como full stack que también tiene experiencia automatizando procesos del backend, puedo aportar valor a Auco más allá del puesto por el que se me contrate."
+        },
+        {
+            "postId": "mypost",
+            "id": 103,
+            "name": "Mi valor como desarrollador y persona",
+            "email": "Estiven25b777@gmail.com",
+            "body": "Como desarrollador he desempeñado diferentes roles y tareas al implementar aplicaciones, puedo aportar valor al desarrollo de todo el stack o enfocar mis esfuerzos en un módulo si es necesario. Pero en mi trayecto como programador, siento que he ganado también muchísimo valor como persona, ser resiliente, autodidacta, paciente, comunicarse y ser colaborativo me ha permitido dar un paso más allá como profesional."
+        },
+        {
+            "postId": "mypost",
+            "id": 104,
+            "name": "Agradecimientos",
+            "email": "Estiven25b777@gmail.com",
+            "body": "Quise dedicar esta pequeña parte para agradecer al equipo de Auco por su tiempo y consideración hacia mi perfil, quisiera haber podido dedicar un poco más de esfuerzo para un video o algo más personalizado, pero aún así quedo atento y estaría encantado de tener una entrevista con alguien de su equipo. Espero saber pronto de ustedes :D"
+        }
+    ]
+}
